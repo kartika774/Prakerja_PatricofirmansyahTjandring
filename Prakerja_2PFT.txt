@@ -1,0 +1,24 @@
+TUGAS PRAKTIK MANDIRI 1
+PATRICO FIRMANSYAH TJANDRING
+
+void main() {
+{ //keliling lingkaran
+double jariJari = 28;
+double phi = 22/7;
+double keliingLingkaran = 2 * phi * jariJari;
+print(keliingLingkaran);
+
+//keliling persegi
+double sisi = 15;
+double hasil = 4 * sisi;
+print(hasil);
+
+//keliling persegi panjang
+double p = 10;
+double l = 5;
+double hasilcoco = p * l * 2;
+print(hasilcoco);
+}
+}
+
+
