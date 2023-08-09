@@ -1,0 +1,147 @@
+﻿PERINCIAN BARANG MASUK DAN TOTAL HARGA
+    1. OM BA’I
+OM BA'I
+
+Tanggal
+Barang Masuk 
+Harga per Kilo 
+Jumlah 
+
+11/02/2023
+1.660 kg
+Rp 31.000
+Rp 51.460.000
+
+13/02/2023
+253 kg
+Rp 32.000
+Rp 8.096.000
+
+15/02/2023
+1.455 kg 
+Rp 32.000
+Rp 46.560.000
+
+18/02/2023
+1.754 kg 
+Rp 32.000
+Rp 56.128.000
+
+20/02/2023
+1.716 kg
+Rp 32.000
+Rp 54.912.000
+
+TOTAL
+6.838 kg
+ Rp 217.156.000
+
+
+
+
+
+
+    2. OM JACK
+OM JACK
+
+Tanggal
+Barang Masuk 
+Harga per Kilo 
+Jumlah 
+
+31/01/2023
+1.846 kg
+Rp 30.000
+Rp 55.380.000
+
+15/02/2023
+2.047 kg
+Rp 30.000
+Rp 61.410.000
+
+TOTAL
+3.893 kg
+Rp 116.790.000
+
+
+
+
+
+
+    3. RUSING
+RUSING
+
+Tanggal
+Barang Masuk 
+Harga per Kilo 
+Jumlah 
+
+15/02/2023
+171 kg
+Rp 29.000
+Rp 4.959.000
+
+20/02/2023
+261 kg
+Rp 29.000
+Rp 7.569.000
+
+TOTAL
+432 kg
+Rp 12.528.000
+
+
+
+
+
+
+    4. ARMAN
+ARMAN
+
+Tanggal
+Barang Masuk 
+Harga per Kilo 
+Jumlah 
+
+07/02/2023
+600 kg
+Rp 30.000
+Rp 18.000.000
+
+15/02/2023
+332 kg
+Rp 30.000
+Rp 9.960.000
+
+TOTAL
+932 kg
+Rp 27.960.000
+
+
+
+
+
+
+
+    5. ISAK DEA
+ISAK DEA
+
+Tanggal
+Barang Masuk
+Harga per Kilo 
+Jumlah 
+
+15/02/2023
+3.000 kg
+Rp 30.000
+Rp 90.000.000
+
+TOTAL
+3.000 kg
+Rp 90.000.000
+
+
+
+
+
+
